@@ -1,0 +1,23 @@
+{
+  "name": "game_text_sam",
+  "version": "1.0.0",
+  "description": "A console text based game in typescript",
+  "main": "index.js",
+  "bin": {
+	"game_text_sam": "bin/index.js"
+},
+  "scripts": {
+    "test": "\\*Echo*\\"
+  },
+  "keywords": [
+    "game",
+    "console",
+    "typescript"
+  ],
+  "author": "samiya marium",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.0.0"
+  }
+}
